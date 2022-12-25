@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    font-family: sans-serif,'Franklin Gothic Medium', 'Arial Narrow', Arial, Helvetica,Impact,'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+
+.header_div{
+    background-color: darkgray;
+}
+
+.main_div{
+    background-color: lightgray;
+}
+
+.copy_right_footer{
+    background-color: aqua;
+}
+#c{
+    width: 250px;
+    height: 250px;
+    border: 2px solid crimson;
+}
